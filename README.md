@@ -12,7 +12,7 @@ Plugin has been successfully tested on Android 4+ device with Cordova 3.
 To install the plugin
 
 ```
-cordova plugin add https://github.com/MaginSoft/MFileChooser.git
+cordova plugin add https://github.com/skdhanjal/MFileChooser.git
 ```
 
 ## Using the plugin ##
@@ -46,10 +46,6 @@ The plugin creates the object `window.plugins.mfilechooser`. To use, call the `o
     
     });
 ```
-
-## Release notes ##
-
-September 16, 2014 Initial release
 
 ## Contribution ##
 
