@@ -53,4 +53,4 @@ September 16, 2014 Initial release
 
 ## Contribution ##
 
-I wrote this plugin basing on the [simple-file-chooser](https://github.com/ingyesid/simple-file-chooser) by [ingyesid](https://github.com/ingyesid)
+this plugin is based on the [MFileChooser](https://github.com/MaginSoft/MFileChooser) by [MaginSoft]https://github.com/MaginSoft)
